@@ -6,7 +6,7 @@ output: github_document
 ### Exploring the Orange dataset:
 ```{r}
 head(Orange, 10)
-tail(Orange, 3)
+tail(Orange, 3) 
 ```
 
 ```{r}

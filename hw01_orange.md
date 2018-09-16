@@ -20,7 +20,7 @@ head(Orange, 10)
     ## 10    2  664           111
 
 ``` r
-tail(Orange, 3)
+tail(Orange, 3) 
 ```
 
     ##    Tree  age circumference
