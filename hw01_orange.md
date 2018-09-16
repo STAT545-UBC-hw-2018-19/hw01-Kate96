@@ -89,6 +89,18 @@ Orange[Orange$Tree=="5",]
     ## 34    5 1372           174
     ## 35    5 1582           177
 
+``` r
+sd(Orange$circumference)
+```
+
+    ## [1] 57.48818
+
+``` r
+mean(Orange$circumference[Orange$Tree=="2"]) == mean(Orange$circumference[Orange$Tree=="4"])
+```
+
+    ## [1] FALSE
+
 ### Plotting the data:
 
 ``` r
@@ -96,4 +108,4 @@ library("ggplot2")
 ggplot(Orange, aes(x=age, y=circumference, group=Tree)) + geom_line(aes(linetype=Tree, color=Tree))
 ```
 
-![](hw01_orange_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](hw01_orange_files/figure-markdown_github/unnamed-chunk-6-1.png)

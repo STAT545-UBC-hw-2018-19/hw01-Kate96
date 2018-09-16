@@ -26,6 +26,12 @@ Orange$circumference[Orange$Tree == "3"] == Orange$circumference[Orange$Tree == 
 Orange[Orange$Tree=="5",]
 ```
 
+```{r}
+sd(Orange$circumference)
+mean(Orange$circumference[Orange$Tree=="2"]) == mean(Orange$circumference[Orange$Tree=="4"])
+```
+
+
 ### Plotting the data:
 ```{r}
 library("ggplot2")
