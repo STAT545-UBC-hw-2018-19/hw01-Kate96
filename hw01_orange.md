@@ -29,7 +29,7 @@ tail(Orange, 3)
     ## 35    5 1582           177
 
 ``` r
-summary(Orange$age)
+summary(Orange$age) 
 ```
 
     ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 

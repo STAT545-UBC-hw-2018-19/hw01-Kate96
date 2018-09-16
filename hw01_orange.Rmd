@@ -10,7 +10,7 @@ tail(Orange, 3)
 ```
 
 ```{r}
-summary(Orange$age)
+summary(Orange$age) 
 summary(Orange[c(1:10), ])
 ```
 
