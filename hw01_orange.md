@@ -4,7 +4,7 @@ hw01\_orange
 ### Exploring the Orange dataset:
 
 ``` r
-head(Orange, 10)
+head(Orange, 15)
 ```
 
     ##    Tree  age circumference
@@ -18,6 +18,11 @@ head(Orange, 10)
     ## 8     2  118            33
     ## 9     2  484            69
     ## 10    2  664           111
+    ## 11    2 1004           156
+    ## 12    2 1231           172
+    ## 13    2 1372           203
+    ## 14    2 1582           203
+    ## 15    3  118            30
 
 ``` r
 tail(Orange, 3) 

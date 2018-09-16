@@ -1,11 +1,11 @@
 ---
 title: "hw01_orange"
 output: github_document
----
+--- 
 
 ### Exploring the Orange dataset:
 ```{r}
-head(Orange, 10)
+head(Orange, 15)
 tail(Orange, 3) 
 ```
 
