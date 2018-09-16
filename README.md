@@ -7,11 +7,9 @@ This is the repository for the ***first homework assignment*** in [UBC STAT545 c
 2. Files exploring the dataset ***Orange*** which looks at *the growth of orange trees*:
       - `hw01_airquality.Rmd`
       - `hw01_airquality.md` 
-3. And, of course, this README file! :simple_smile:
+3. And, of course, this README file! 
 
 ###### To learn more about the dataset:
-- [x] ```
-?Orange
-```
+- [x] ```?Orange```
 
-* The homework was completed by *Kate Tyshchenko*, a 1st year Masters student in [Interdisciplinary Oncology program](https://www.iop.ca/) :octocat:
+* The homework was completed by *Kate Tyshchenko*, a 1st year Masters student in [Interdisciplinary Oncology program](https://www.iop.ca/) 
