@@ -15,6 +15,6 @@ This is the repository for the ***first homework assignment*** in [UBC STAT545 c
 - The homework was completed by *Kate Tyshchenko*:
      * a 1st year Masters student in [Interdisciplinary Oncology program](https://www.iop.ca/) 
      * studied Biochemistry as a UBC undergrad
-     * likes Star Wars :thumbsup:
+     * fan of Star Wars :smile:
 
-![](http://www.laceupforchange.org.za/wp-content/uploads/2017/02/fruit-orange-600x600.jpg)
+![](https://amp.businessinsider.com/images/566ee4a7dd089532058b46f6-360-270.jpg)
