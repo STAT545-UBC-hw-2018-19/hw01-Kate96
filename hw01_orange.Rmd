@@ -1,0 +1,33 @@
+---
+title: "hw01_orange"
+output: github_document
+---
+
+### Exploring the Orange dataset:
+```{r}
+head(Orange, 10)
+tail(Orange, 3)
+```
+
+```{r}
+summary(Orange$age)
+summary(Orange[c(1:10), ])
+```
+
+```{r}
+class(Orange$Tree)
+levels(Orange$Tree)
+length(levels(Orange$Tree))
+```
+
+```{r}
+Orange$circumference[Orange$Tree == "3"] == Orange$circumference[Orange$Tree == "1"]
+
+Orange[Orange$Tree=="5",]
+```
+
+### Plotting the data:
+```{r}
+library("ggplot2")
+ggplot(Orange, aes(x=age, y=circumference, group=Tree)) + geom_line(aes(linetype=Tree, color=Tree))
+```
