@@ -10,8 +10,8 @@ This is the repository for the ***first homework assignment*** in [UBC STAT545 c
 3. And, of course, this README file! :simple_smile:
 
 ###### To learn more about the dataset:
-- [x] ```R
+- [x] ```
 ?Orange
 ```
 
-* The homework was completed by *Kate Tyshchenko*, a 1st year Masters student in [Interdisciplinary Oncology program](https://www.iop.ca/) :blue_book:
+* The homework was completed by *Kate Tyshchenko*, a 1st year Masters student in [Interdisciplinary Oncology program](https://www.iop.ca/) :octocat:
