@@ -12,7 +12,9 @@ This is the repository for the ***first homework assignment*** in [UBC STAT545 c
 - [x] ```?Orange```
 - [ ] [R documentation website](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/Orange.html) 
 
-###### - This homework was completed by *Kate Tyshchenko*:
+
+
+- This homework was completed by *Kate Tyshchenko*:
      * a 1st year Masters student in [Interdisciplinary Oncology program](https://www.iop.ca/) :blue_book:
      * studied Biochemistry as a UBC undergrad
      * fan of Star Wars :simple_smile:
